@@ -9,7 +9,7 @@ go-cachemap is a memory cache store implemeNted using inbuilt map. Cache can be 
 go get github.com/sameervitian/go-cachemap
 
 ## Usage
-```
+```go
 package main
 
 import (
