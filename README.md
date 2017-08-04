@@ -1,3 +1,4 @@
+[![GoDoc](https://godoc.org/github.com/sameervitian/go-cachemap?status.svg)](https://godoc.org/github.com/sameervitian/go-cachemap)
 # go-cachemap
 Golang local map cache
 
