@@ -1,4 +1,4 @@
-package cachestore
+package cachemap
 
 import (
 	"log"
